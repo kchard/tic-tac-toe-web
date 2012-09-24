@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#container {
+  width:  750px;
+  height: 750px;
+  margin: 100px auto;
+}
+
+#board {
+  border: 1px solid;
+}
