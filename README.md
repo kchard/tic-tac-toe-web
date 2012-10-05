@@ -1,6 +1,6 @@
 # tic-tac-toe-web
 
-A website written in noir. 
+A game of tic tac toe written in Clojure and utilizing the HTML5 Canvas to draw the board. 
 
 ## Usage
 
@@ -8,6 +8,8 @@ A website written in noir.
 lein deps
 lein run
 ```
+
+Play the game at: http://localhost:8080/tic-tac-toe
 
 ## License
 
