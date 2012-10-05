@@ -13,6 +13,6 @@ Play the game at: http://localhost:8080/tic-tac-toe
 
 ## License
 
-Copyright (C) 2011 Kevin Chard
+Copyright (C) 2012 Kevin Chard
 
 
